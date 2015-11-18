@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/.DocumentRevisions-V100'
+let g:netrw_dirhist_2='/.DocumentRevisions-V100/PerUID'
+let g:netrw_dirhist_3='/.DocumentRevisions-V100/PerUID/505'
+let g:netrw_dirhist_4='/.DocumentRevisions-V100/PerUID/505/10'
+let g:netrw_dirhist_5='/.DocumentRevisions-V100/PerUID/505/10/com.apple.documentVersions'
+let g:netrw_dirhist_6='/Users/edit1/elemehackathon/hackathon'
