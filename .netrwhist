@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/edit1/elemehackathon/hackathon'
 let g:netrw_dirhist_2='/Users/edit1/zabbix'
 let g:netrw_dirhist_3='/Users/edit1'
@@ -7,3 +7,4 @@ let g:netrw_dirhist_4='/Users/edit1/zabbix/js'
 let g:netrw_dirhist_5='/Users/edit1/elemehackathon/hackathon'
 let g:netrw_dirhist_6='/Users/edit1/elemehackathon/hackathon/app'
 let g:netrw_dirhist_7='/Users/edit1/elemehackathon/hackathon'
+let g:netrw_dirhist_8='/Users/edit1/phpci/CodeIgniter'
